@@ -1,0 +1,9 @@
+{
+  "name": "Shaheen School & College",
+  "description": "A futuristic, premium school management system and public website for Shaheen School & College Wari Dir (U).",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
